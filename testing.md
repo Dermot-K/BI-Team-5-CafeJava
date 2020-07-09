@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 # ![Logo](/wireframes/logo-image.jpg) #
-=======
-![Logo](/wireframes/logo-image.jpg)
 
-# Café Java Project Testing Details #
->>>>>>> 14502b866ad1b076b4cc1e0d439bff2a4746b7af
+## Café Java Project Testing Details ##
 
-## BI Team 5 Project Testing Details ##
+### BI Team 5 Project Testing Details ###
 
 [Main README.md file](https://github.com/AlexNexton/BI-Team-5/blob/master/README.md)
 
@@ -16,9 +12,9 @@
 
 ## Table of Contents ##
 
-<<<<<<< HEAD
 - [!Logo](#img-srcwireframeslogo-imagejpg-altlogo)
-  - [BI Team 5 Project Testing Details](#bi-team-5-project-testing-details)
+  - [Café Java Project Testing Details](#café-java-project-testing-details)
+    - [BI Team 5 Project Testing Details](#bi-team-5-project-testing-details)
   - [Table of Contents](#table-of-contents)
   - [Automated Testing](#automated-testing)
     - [Validation Services](#validation-services)
@@ -28,18 +24,6 @@
     - [Testing undertaken on tablet and phone devices](#testing-undertaken-on-tablet-and-phone-devices)
   - [Bugs discovered](#bugs-discovered)
     - [Unsolved Bugs](#unsolved-bugs)
-  - [Further testing](#further-testing)
-=======
-- [Automated Testing](#automated-testing)
-  - [Validation Services](#validation-services)
-- [Manual Testing](#manual-testing)
-  - [User Acceptance Testing (UAT)](#user-acceptance-testing-(uat))
-  - [Testing undertaken on desktop](#testing-undertaken-on-desktop)
-  - [Testing undertaken on tablet and phone devices](#testing-undertaken-on-tablet-and-phone-devices)
-- [Bugs discovered](#bugs-discovered)
-  - [Unsolved Bugs](#unsolved-bugs)
-
->>>>>>> 14502b866ad1b076b4cc1e0d439bff2a4746b7af
 
 ---
 
@@ -62,17 +46,11 @@ The following **validation services** and **linter** were used to check the vali
 ---
 
 ### User Acceptance Testing (UAT) ###
-<<<<<<< HEAD
 
-[UAT document](testing/) containing:
+[UAT document](testing/cafe-java-uat-test-plan.pdf) containing:
 
 - UAT approach (scope, assumptions and constraints, team roles and responsibilities etc.),
 - Identified risks,
-=======
-[UAT document](testing/cafe-java-uat-test-plan.pdf) containing:
-- UAT approach (scope, assumptions and constraints, team roles and responsibilities etc.), 
-- Identified risks, 
->>>>>>> 14502b866ad1b076b4cc1e0d439bff2a4746b7af
 - The test cases,
 - The pass / fail record for each test case.
 
@@ -126,12 +104,3 @@ The issue log is managed on the [GitHub Project Issues section](https://github.c
 [Issue #38](https://github.com/AlexNexton/BI-Team-5/issues/38)
 
 - In Safari only, when clicking the social media link icons the hover colour change doesn't work. The icon colour changes on click and remains until another icon is clicked.
-
-<<<<<<< HEAD
----
-
-## Further testing ##
-
----
-=======
->>>>>>> 14502b866ad1b076b4cc1e0d439bff2a4746b7af
